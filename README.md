@@ -61,4 +61,4 @@
 
 ## Project Summary:
 
-       At many times we need to monitor the people visiting a website. This project can be used to count and display the visitor's name and count entering the website.
+- At many times we need to monitor the people visiting a website. This project can be used to count and display the visitor's name and count entering the website.
