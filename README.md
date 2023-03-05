@@ -45,10 +45,11 @@
 
 ## View:
 
-- THe visior 1 had visited the website for 5 times , so the username and the count=5 has been displayed.
+- The visior 1 had visited the website for 5 times , so the username and the count=5 has been displayed.
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/112794922/222963321-18201c17-1594-41fd-a1d4-c743f6e93db1.png)
 
+- The visitor 2 had visited the website 2 times , so the username and count=2 has been displayed.
 ![Screenshot (42)](https://user-images.githubusercontent.com/112794922/222963629-e6f1073c-43c9-4aee-bec4-577d8d68ce02.png)
 
 
