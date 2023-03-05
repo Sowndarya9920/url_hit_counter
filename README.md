@@ -2,7 +2,7 @@
 # URL Hit Counter
 
 
-        The aim of this project is  to count and display the number of visitor's name and count whenever they hit the Api's.
+- The aim of this project is  to count and display the number of visitor's name and count whenever they hit the Api's.
 
 
 
