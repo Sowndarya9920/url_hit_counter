@@ -2,7 +2,7 @@
 # URL Hit Counter
 
 
-        The aim of this project is  to count and display the number of visitor's name and count whenever they hit the Api's.
+        - The aim of this project is  to count and display the number of visitor's name and count whenever they hit the Api's.
 
 
 
@@ -61,4 +61,4 @@
 
 ## Project Summary:
 
-       At many times we need to monitor the people visiting a website. This project can be used to count and display the visitor's name and count entering the website.
+       - At many times we need to monitor the people visiting a website. This project can be used to count and display the visitor's name and count entering the website.
