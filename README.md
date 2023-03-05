@@ -44,6 +44,9 @@
 - @Service annotation is use to make UrlHitService class as service layer.
 
 ## View:
+
+- THe visior 1 had visited the website for 5 times , so the username and the count=5 has been displayed.
+
 ![Screenshot (44)](https://user-images.githubusercontent.com/112794922/222963321-18201c17-1594-41fd-a1d4-c743f6e93db1.png)
 
 
