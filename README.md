@@ -60,7 +60,7 @@
 - @Service annotation is use to make UrlHitService class as service layer.
 
 
-![Screenshot (65)](https://user-images.githubusercontent.com/112794922/225347646-7f9c3ca0-0d7e-4ab8-8675-7d75ef8a99a8
+![Screenshot (65)](https://user-images.githubusercontent.com/112794922/225348513-d16689eb-dfa7-4c4f-825c-7071feed93a9.png)
 
 ## View:
 
