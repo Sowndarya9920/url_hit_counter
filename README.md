@@ -42,6 +42,10 @@
 
 - It consists of a class named UrlHitController which basically controls the flow of the data.
 - @RestController annotation is used to make UrlHitController class as controller layer.
+
+![Screenshot (65)](https://user-images.githubusercontent.com/112794922/225346726-d04afb9b-19c2-4a17-b9d7-d5e94bf165c2.png)
+
+
 - #### API Reference
 
   ##### Get count
