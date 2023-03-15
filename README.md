@@ -3,6 +3,7 @@
 
 
 - The aim of this project is  to count and display the number of visitor's name and count whenever they hit the Api's.
+- We have used spring initializr to create the spring boot application.
 
 
 
