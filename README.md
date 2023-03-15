@@ -5,6 +5,9 @@
 - The aim of this project is  to count and display the number of visitor's name and count whenever they hit the Api's.
 - We have used spring initializr to create the spring boot application.
 
+![Screenshot (59)](https://user-images.githubusercontent.com/112794922/225338941-323f1a0e-1b58-454c-a94c-d21e54773d38.png)
+
+
 
 
 ## Frameworks and Languages used:
