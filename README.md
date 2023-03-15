@@ -35,6 +35,9 @@
 - It consists of a class name called UrlHit where it is typically used to "model" the data in our application.
 - For eg:) we write a model class that mirrors a database table.
 
+
+![Screenshot (65)](https://user-images.githubusercontent.com/112794922/225346128-e397b210-f073-4ed0-a01b-d2f544e61923.png)
+
 ### Controller:
 
 - It consists of a class named UrlHitController which basically controls the flow of the data.
