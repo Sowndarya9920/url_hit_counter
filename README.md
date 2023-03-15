@@ -59,6 +59,9 @@
 - It consists of a class called UrlHitService which helps us to add business functionalities.
 - @Service annotation is use to make UrlHitService class as service layer.
 
+
+![Screenshot (65)](https://user-images.githubusercontent.com/112794922/225347646-7f9c3ca0-0d7e-4ab8-8675-7d75ef8a99a8
+
 ## View:
 
 - The visior 1 had visited the website for 5 times , so the username and the count=5 has been displayed.
